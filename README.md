@@ -4,7 +4,7 @@
 
 <h2>Play the Game : </h2>
 
-Click me [here](https://amansingh6574.github.io/tic-tac-toe-game/)
+Click me [here](https://steady-llama-8085e6.netlify.app)
 
 
 <h2>Feedback : </h2>
